@@ -1,0 +1,32 @@
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\bin\Debug\BlocNotes.exe
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\bin\Debug\BlocNotes.pdb
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Properties.Resources.resources
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.exe
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.pdb
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.FormBlocNotes.resources
+C:\Users\Student\Desktop\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Form_Main.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\bin\Debug\BlocNotes.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\bin\Debug\BlocNotes.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\bin\Debug\BlocNotes.exe.config
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.AboutBox_Main.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Form_Find.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Expérimentaux\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Form_Replace.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\bin\Debug\BlocNotes.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\bin\Debug\BlocNotes.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\bin\Debug\BlocNotes.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.AboutBox_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Form_Find.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Form_Replace.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\BlocNotes\BlocNotes\obj\x86\Debug\BlocNotes.csproj.GenerateResource.Cache
